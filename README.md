@@ -1,6 +1,8 @@
-# Valence & Co: Valence Source
+# Valence & Co
 
-Sourcing assessment prototype (v6) for Valence & Co, Australia.
-Single-file site: `index.html` with the logo in `assets/`.
+Website for Valence & Co, Australian boutique product sourcing & importation.
+
+- `/` full website (single `index.html`, images, Lenis smooth scroll)
+- `/source/` Valence Source sourcing-assessment prototype (v6)
 
 Designed and built by [Beyond Branding](https://thebeyondbranding.com).
